@@ -11,6 +11,9 @@ class A {
         }
     }
 }
+abstract class B {
+    public abstract void show();
+}
 
 abstract class Inner {
     public abstract void innerShow();
